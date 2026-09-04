@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Downloaded media
+downloads/*
+!downloads/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

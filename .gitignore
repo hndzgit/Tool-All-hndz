@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+ENV/
+modules/venv_main/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# PyInstaller / Build
+build/
+dist/
+modules/build/
+modules/dist/
+*.spec
+
+# Logs & Temporary files
+*.log
+*.tmp
+modules/app.log
+modules/app2.log
+modules/ai_video_run.log
+
+# Cookies & Browser Profiles (Sensitive)
+*_cookies.txt
+youtube_cookies.txt
+browser_profile/
+*.env
+
+# Output & Download directories
+downloads/
+outputs/
+output/
+temp/
+processed/
+modules/downloads/
+modules/automation/output/
+modules/automation/temp/
+modules/automation/processed/
+modules/automation/input/
+modules/douyin/downloads/
+modules/douyin/downloads_test/
+modules/douyin/logs/
+
+# Large / Test Media Files
+*.mp4
+*.mp3
+*.mov
+*.wav
+*.m4a

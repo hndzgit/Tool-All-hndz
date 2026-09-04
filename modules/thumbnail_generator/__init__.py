@@ -1,0 +1,1 @@
+# Package thumbnail_generator

@@ -1,0 +1,23 @@
+{
+    "download_dir": "/Users/hoainam/Downloads",
+    "saved_links": "https://v.douyin.com/nc5SsTvlEb8/",
+    "download_logs": [
+        {
+            "timestamp": "2026-08-11 01:24:26",
+            "video_id": "",
+            "link": "8.71 复制打开抖音，看看【圆周率的作品】这世界是块冰  https://v.douyin.com/nc5SsTvlEb8/ :9pm eod:/ 05/31 x@F.uf",
+            "mode": "video",
+            "status": "Lỗi: \u001b[0;31mERROR:\u001b[0m [generic] '8.71 复制打开抖音，看看【圆周率的作品】这世界是块冰  https://v.douyin.com/nc5SsTvlEb8/ :9pm eod:/ 05/31 x@F.uf' is not a valid URL",
+            "file_path": ""
+        },
+        {
+            "timestamp": "2026-08-11 01:25:29",
+            "video_id": "",
+            "link": "https://v.douyin.com/nc5SsTvlEb8/",
+            "mode": "video",
+            "status": "Lỗi: \u001b[0;31mERROR:\u001b[0m [Douyin] 7671995427478256805: Fresh cookies (not necessarily logged in) are needed",
+            "file_path": ""
+        }
+    ],
+    "saved_browser": "None"
+}

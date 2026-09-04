@@ -1,0 +1,28 @@
+{
+    "sub_x_ratio": 0.48450704225352115,
+    "sub_y_ratio": 0.7927215189873418,
+    "sub_size_scale": 1.1,
+    "sub_color_hex": "#aa7941",
+    "sub_font_name": "BeVietnamPro-Bold.ttf",
+    "voice_name": "V\u0169 Th\u1ecb Lan H\u01b0\u01a1ng (N\u1eef TQ - Adv)",
+    "sub_source": "Gemini (Ph\u00e2n t\u00edch \u1ea3nh \u0111\u01a1n h\u00e0ng)",
+    "output_dir": "/Users/hoainam/Downloads/download/\u0110a\u0303 xua\u0302\u0301t",
+    "blur_boxes": [
+        [
+            568,
+            1133,
+            630,
+            1189
+        ],
+        [
+            1130,
+            574,
+            1190,
+            629
+        ]
+    ],
+    "keep_bgm": false,
+    "sub_var": true,
+    "order_image_path": "/Users/hoainam/Documents/IMG_4709.PNG",
+    "enable_watermark": false
+}

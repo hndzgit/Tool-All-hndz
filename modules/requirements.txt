@@ -1,0 +1,23 @@
+# GUI Framework
+customtkinter>=5.2.0
+packaging
+
+# Douyin Module
+requests>=2.31.0
+
+# Telegram Bot Module
+python-telegram-bot>=20.0
+yt-dlp>=2023.10.13
+
+# Optional/General
+pillow
+opencv-python
+easyocr
+deep-translator
+edge-tts
+faster-whisper
+google-generativeai
+playwright
+pydub
+moviepy
+gTTS
