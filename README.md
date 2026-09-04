@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![UI Framework](https://img.shields.io/badge/GUI-CustomTkinter-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Copyright](https://img.shields.io/badge/Copyright-%C2%A9%202026%20Tr%E1%BA%A7n%20Ho%C3%A0i%20Nam-blue.svg)
 
 **Video AI Pro Studio** (Tool All) là bộ công cụ tất-cả-trong-một (All-in-One) dành cho Creators, Marketers và NPH Video. Được tích hợp công nghệ AI (Gemini Vision, Vbee TTS, Edge-TTS, Playwright), phần mềm giúp tự động hóa toàn bộ quy trình từ tải video nguồn, lách bản quyền, dịch thuật OCR, tạo giọng đọc, biên tập video cho đến đăng tải tự động lên các nền tảng mạng xã hội.
 
@@ -110,10 +110,11 @@ playwright install chromium
 
 ---
 
-## 📝 Giấy Phép (License)
+## ⚖️ Bản Quyền (Copyright)
 
-Dự án được phân phối dưới giấy phép [MIT License](LICENSE).
+© 2026 **Trần Hoài Nam**. All rights reserved.  
+Bản quyền toàn bộ dự án thuộc về **Trần Hoài Nam**.
 
 ---
 
-<p center="align">Developed with ❤️ for Content Creators & Automation Enthusiasts</p>
+<p align="center">Developed with ❤️ by <b>Trần Hoài Nam</b></p>
