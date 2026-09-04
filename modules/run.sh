@@ -14,7 +14,13 @@ echo "=========================================="
 # Kiểm tra xem venv đã tồn tại chưa
 if [ ! -d "venv_main" ]; then
     echo "[+] Đang tạo môi trường ảo (Virtual Environment)..."
-    /opt/homebrew/bin/python3.11 -m venv venv_main
+    if command -v python3.11 &> /dev/null; then
+        python3.11 -m venv venv_main
+    elif command -v python3 &> /dev/null; then
+        python3 -m venv venv_main
+    else
+        python -m venv venv_main
+    fi
 fi
 
 # Kích hoạt venv
